@@ -25,5 +25,5 @@ The project was created with accessibility and reproducibility in mind, providin
 
 ### 📫 Contact
 * Email: ihor070722@gmail.com
-* Telegram : @tacter
+* Telegram : @wilofer
 * GitHub: you're already here :)
